@@ -7,13 +7,13 @@
   "notification": true,
   "approval": false,
   "BOTNAME": "Masterpiece",
-  "PREFIX": "/",
+  "PREFIX": ".,
   "OPERATOR": [
     "100080335813912",
     ""
   ],
   "ADMINBOT": [
-    "",
+    "100080335813912",
     ""
   ],
   "OWNER": ["100000959749712"], 
